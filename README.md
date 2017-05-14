@@ -1,3 +1,4 @@
 # shopify
 ruby on rails ecommerce
-http://www.findwebapp.com/how-to-add-facebook-smileys/
+
+haha, who seriously releases a store-webcode to the public and isn't taking cuts from an internet domain provider !! 
